@@ -31,10 +31,19 @@ body{
     text-align: center;
     background-color: rgba(33, 37, 80, 0.568);
 }
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 20%;
+    gap: 1%;
+}
+
 .div4{
     margin-top: 2%;
     width: 45%;
-    height: 20%;
+    height: 100%;
     align-content: center;
     text-align: center;
     background-color: rgba(33, 37, 80, 0.568);
@@ -42,7 +51,7 @@ body{
 .div5{
     margin-top: 2%;
     width: 45%;
-    height: 20%;
+    height: 100%;
     align-content: center;
     text-align: center;
     background-color: rgba(33, 37, 80, 0.568);
